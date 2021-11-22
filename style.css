@@ -21,8 +21,10 @@ body{
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
+    /* background: linear-gradient(to right, #2196f31a,#ffeb3b3b); */
     /* border: 1px solid black; */
 }
+
 @media (min-width: 1200px){
 .container {
     max-width: 1140px;
